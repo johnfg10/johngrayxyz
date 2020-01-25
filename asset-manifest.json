@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/johngrayxyz/static/css/main.d1b05096.chunk.css",
+    "main.js": "/johngrayxyz/static/js/main.aa92ad90.chunk.js",
+    "main.js.map": "/johngrayxyz/static/js/main.aa92ad90.chunk.js.map",
+    "runtime-main.js": "/johngrayxyz/static/js/runtime-main.2126694b.js",
+    "runtime-main.js.map": "/johngrayxyz/static/js/runtime-main.2126694b.js.map",
+    "static/js/2.eae2209b.chunk.js": "/johngrayxyz/static/js/2.eae2209b.chunk.js",
+    "static/js/2.eae2209b.chunk.js.map": "/johngrayxyz/static/js/2.eae2209b.chunk.js.map",
+    "index.html": "/johngrayxyz/index.html",
+    "precache-manifest.3fa71929796553d7d1d5b0f50cffa9b0.js": "/johngrayxyz/precache-manifest.3fa71929796553d7d1d5b0f50cffa9b0.js",
+    "service-worker.js": "/johngrayxyz/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/johngrayxyz/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.eae2209b.chunk.js.LICENSE": "/johngrayxyz/static/js/2.eae2209b.chunk.js.LICENSE",
+    "static/media/logo.svg": "/johngrayxyz/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2126694b.js",
+    "static/js/2.eae2209b.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.aa92ad90.chunk.js"
+  ]
+}
